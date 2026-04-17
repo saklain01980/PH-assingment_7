@@ -13,19 +13,18 @@ export default function Home() {
     const timer = setTimeout(() => {
       setFriends(friendsData)
       setLoading(false)
-    }, 1000)
+    }, 800)
     return () => clearTimeout(timer)
   }, [])
 
   return (
-    <div>
+    <div className="bg-white">
       <Banner />
 
       {/* Friends Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="text-2xl md:text-3xl font-bold text-text-dark">Your Friends</h2>
-          <span className="text-text-muted text-sm">{friends.length} friends</span>
+        <div className="mb-8">
+          <h2 className="text-xl font-bold text-text-dark">Your Friends</h2>
         </div>
 
         {loading ? (
