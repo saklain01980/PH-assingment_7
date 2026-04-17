@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.johnson@email.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during freshman year at Stanford. We bonded over late-night coding sessions and still debug life problems together.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.chen@email.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager at TechCorp. She taught me everything about leadership and still gives the best career advice.",
+    "goal": 7,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "emily.rod@email.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["childhood", "travel buddy"],
+    "bio": "Grew up next door and we've been inseparable since kindergarten. We try to take one big trip together every year.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "david.kim@email.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gym partner", "neighbor"],
+    "bio": "We started working out together when he moved next door. Now we're accountability partners for fitness and life goals.",
+    "goal": 7,
+    "next_due_date": "2025-07-16"
+  },
+  {
+    "id": 5,
+    "name": "Priya Patel",
+    "picture": "https://randomuser.me/api/portraits/women/90.jpg",
+    "email": "priya.patel@email.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["college", "study group"],
+    "bio": "We survived organic chemistry together. She's now a doctor and we catch up whenever her schedule allows.",
+    "goal": 21,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 6,
+    "name": "James O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/52.jpg",
+    "email": "james.obrien@email.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["work", "gaming"],
+    "bio": "Sit next to each other at work and team up in online games every weekend. Best coworker turned real friend.",
+    "goal": 10,
+    "next_due_date": "2025-07-19"
+  },
+  {
+    "id": 7,
+    "name": "Aisha Williams",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "aisha.w@email.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["book club", "close friend"],
+    "bio": "We met at a local book club and discovered we have the exact same taste in fiction. Monthly book swaps are our thing.",
+    "goal": 14,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 8,
+    "name": "Carlos Mendez",
+    "picture": "https://randomuser.me/api/portraits/men/22.jpg",
+    "email": "carlos.m@email.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["high school", "music"],
+    "bio": "Started a garage band together in 10th grade. He's still making music and I'm his biggest fan.",
+    "goal": 14,
+    "next_due_date": "2025-07-05"
+  }
+]
